@@ -12,7 +12,8 @@ html{
 
 a{
     text-decoration: none;
-    color: #a6c0fe
+    text-decoration: underline;
+    color: #000000;
 }
 
 img{
